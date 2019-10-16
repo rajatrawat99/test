@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+https://circleci.com/gh/rajatrawat99/UdacityProject04.svg?style=svg
 
 ## Project Overview
 
