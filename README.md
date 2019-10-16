@@ -1,4 +1,4 @@
-https://circleci.com/gh/rajatrawat99/UdacityProject04.svg?style=svg
+[![CircleCI](https://circleci.com/gh/rajatrawat99/UdacityProject04.svg?style=svg)](https://circleci.com/gh/rajatrawat99/UdacityProject04)
 
 ## Project Overview
 
